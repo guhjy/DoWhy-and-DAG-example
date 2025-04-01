@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+dowhy
+graphviz # Python wrapper for Graphviz
+python-graphviz # Interface used by DoWhy/Graphviz
+statsmodels
+scipy
+# 如果您在本地開發時使用了特定版本，最好也指定版本，例如：
+# pandas==2.1.0
+# streamlit==1.28.0
